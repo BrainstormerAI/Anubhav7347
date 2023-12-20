@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Vaish</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from India.</h3>
+<h3 align="center">A pasionate Artificial Intelligence and Machine Learning Engineer from India.</h3>
 
 <img align="right" alt="coading" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 
